@@ -1,38 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="854" height="160" viewBox="0 0 854 160">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="130" viewBox="0 0 600 130">
   <!-- Lenguaje principal de 35 repos (públicos y privados), 2026-11-22. Estático: actualizar a mano. -->
   <style>
     .bg { fill: #f6f8fa; stroke: #d0d7de; }
-    .h { font: 600 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .h { font: 600 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
     .s, .l { font: 400 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #59636e; }
-    .l b { fill: #1f2328; font-weight: 600; }
     @media (prefers-color-scheme: dark) {
       .bg { fill: #0d1117; stroke: #30363d; }
-      .h, .l b { fill: #e6edf3; }
+      .h { fill: #e6edf3; }
       .s, .l { fill: #8b949e; }
     }
   </style>
   <defs>
-    <clipPath id="bar"><rect x="30" y="56" width="794" height="10" rx="5"/></clipPath>
+    <clipPath id="bar"><rect x="24" y="46" width="552" height="8" rx="4"/></clipPath>
   </defs>
-  <rect class="bg" x=".5" y=".5" width="853" height="159" rx="10"/>
-  <text class="h" x="30" y="36">Lenguajes</text>
-  <text class="s" x="824" y="36" text-anchor="end">Lenguaje principal en 35 repositorios</text>
+  <rect class="bg" x=".5" y=".5" width="599" height="129" rx="8"/>
+  <text class="h" x="24" y="30">Lenguajes</text>
+  <text class="s" x="576" y="30" text-anchor="end">Lenguaje principal en 35 repositorios</text>
   <g clip-path="url(#bar)">
-    <rect x="30" y="56" width="476.4" height="10" fill="#3572A5"/>
-    <rect x="506.4" y="56" width="113.5" height="10" fill="#3178c6"/>
-    <rect x="619.9" y="56" width="90.5" height="10" fill="#89e051"/>
-    <rect x="710.4" y="56" width="45.3" height="10" fill="#e34c26"/>
-    <rect x="755.7" y="56" width="23" height="10" fill="#41b883"/>
-    <rect x="778.7" y="56" width="23" height="10" fill="#f34b7d"/>
-    <rect x="801.7" y="56" width="22.3" height="10" fill="#384d54"/>
+    <rect x="24" y="46" width="331.2" height="8" fill="#3572A5"/>
+    <rect x="355.2" y="46" width="78.9" height="8" fill="#3178c6"/>
+    <rect x="434.1" y="46" width="62.9" height="8" fill="#89e051"/>
+    <rect x="497" y="46" width="31.5" height="8" fill="#e34c26"/>
+    <rect x="528.5" y="46" width="16" height="8" fill="#41b883"/>
+    <rect x="544.5" y="46" width="16" height="8" fill="#f34b7d"/>
+    <rect x="560.5" y="46" width="15.5" height="8" fill="#384d54"/>
   </g>
   <g class="l">
-    <circle cx="35" cy="101" r="5" fill="#3572A5"/><text x="47" y="105"><tspan font-weight="600" class="lb">Python</tspan> 60,0%</text>
-    <circle cx="235" cy="101" r="5" fill="#3178c6"/><text x="247" y="105">TypeScript 14,3%</text>
-    <circle cx="435" cy="101" r="5" fill="#89e051"/><text x="447" y="105">Shell 11,4%</text>
-    <circle cx="635" cy="101" r="5" fill="#e34c26"/><text x="647" y="105">HTML 5,7%</text>
-    <circle cx="35" cy="131" r="5" fill="#41b883"/><text x="47" y="135">Vue 2,9%</text>
-    <circle cx="235" cy="131" r="5" fill="#f34b7d"/><text x="247" y="135">C++ 2,9%</text>
-    <circle cx="435" cy="131" r="5" fill="#384d54"/><text x="447" y="135">Dockerfile 2,9%</text>
+    <circle cx="28" cy="82" r="4" fill="#3572A5"/><text x="38" y="86">Python 60,0%</text>
+    <circle cx="168" cy="82" r="4" fill="#3178c6"/><text x="178" y="86">TypeScript 14,3%</text>
+    <circle cx="308" cy="82" r="4" fill="#89e051"/><text x="318" y="86">Shell 11,4%</text>
+    <circle cx="448" cy="82" r="4" fill="#e34c26"/><text x="458" y="86">HTML 5,7%</text>
+    <circle cx="28" cy="106" r="4" fill="#41b883"/><text x="38" y="110">Vue 2,9%</text>
+    <circle cx="168" cy="106" r="4" fill="#f34b7d"/><text x="178" y="110">C++ 2,9%</text>
+    <circle cx="308" cy="106" r="4" fill="#384d54"/><text x="318" y="110">Dockerfile 2,9%</text>
   </g>
 </svg>
