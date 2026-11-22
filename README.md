@@ -16,6 +16,8 @@ Seville, Spain
 
 I'm an industrial engineer working as an **AI & Data Solutions Engineer** at [Ayesa Digital](https://www.ayesa-digital.com) ([@Emergya](https://github.com/Emergya)). I design and deploy generative AI solutions, from understanding the business problem to running them reliably in production.
 
+What I enjoy most is deciding how the pieces fit together: clear boundaries between services, data flows that are easy to follow, and systems that are simple to operate today and to evolve tomorrow.
+
 My background spans data engineering and process engineering, and outside work I keep building side projects: bots, APIs and small web apps.
 
 ### Favourite technologies
