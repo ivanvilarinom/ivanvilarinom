@@ -17,12 +17,22 @@ Ingeniero industrial especializado en el diseño y despliegue de soluciones de i
 
 ### Stack
 
-| | |
-|---|---|
-| **IA y datos** | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688) ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=e6edf3) |
-| **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6) ![Vue](https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D) |
-| **Infraestructura** | ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED) ![Linux](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=e6edf3) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032) |
-| **Embebido** | ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C) ![ESP32](https://img.shields.io/badge/ESP32-0d1117?style=flat-square&logo=espressif&logoColor=E7352C) |
+**IA y datos** &nbsp;
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+
+**Frontend** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Vue](https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+
+**Infraestructura** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=e6edf3)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+
+**Embebido** &nbsp;
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![ESP32](https://img.shields.io/badge/ESP32-0d1117?style=flat-square&logo=espressif&logoColor=E7352C)
 
 ### Proyecto destacado
 
