@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Ubicación-Sevilla-57606a?style=flat-square&logo=googlemaps&logoColor=white&labelColor=424a53" alt="Sevilla"/>
 <img src="https://komarev.com/ghpvc/?username=ivanvilarinom&style=flat-square&color=57606a&label=Visitas" alt="Visitas"/>
 
-<a href="https://www.ayesa.com"><img src="https://img.shields.io/badge/Empresa-Ayesa-0a3d91?style=flat-square&labelColor=424a53" alt="Ayesa"/></a>
+<a href="https://www.ayesa.com"><img src="https://img.shields.io/badge/Empresa-Ayesa%20Digital-0a3d91?style=flat-square&labelColor=424a53" alt="Ayesa Digital"/></a>
 <a href="https://github.com/Emergya"><img src="https://img.shields.io/badge/Empresa-Emergya-0a3d91?style=flat-square&labelColor=424a53" alt="Emergya"/></a>
 
 </div>
@@ -22,24 +22,9 @@
 
 Ingeniero industrial especializado en el diseño y despliegue de soluciones de inteligencia artificial generativa.
 
-### Stack
+<br/>
 
-**IA y datos** &nbsp;
-![Python](https://img.shields.io/badge/Python-57606a?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-57606a?style=flat-square&logo=fastapi&logoColor=white)
-
-**Frontend** &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-57606a?style=flat-square&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-57606a?style=flat-square&logo=vuedotjs&logoColor=white)
-
-**Infraestructura** &nbsp;
-![Docker](https://img.shields.io/badge/Docker-57606a?style=flat-square&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-57606a?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-57606a?style=flat-square&logo=git&logoColor=white)
-
-**Embebido** &nbsp;
-![C++](https://img.shields.io/badge/C++-57606a?style=flat-square&logo=cplusplus&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-57606a?style=flat-square&logo=espressif&logoColor=white)
+<img src="languages.svg" width="100%" alt="Lenguajes: Python 60%, TypeScript 14,3%, Shell 11,4%, HTML 5,7%, Vue 2,9%, C++ 2,9%, Dockerfile 2,9%"/>
 
 ### Proyecto destacado
 
