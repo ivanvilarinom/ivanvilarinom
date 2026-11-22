@@ -10,23 +10,42 @@
 
 <a href="https://www.linkedin.com/in/ivilarino/"><img src="https://img.shields.io/badge/LinkedIn-ivilarino-57606a?style=flat-square&logo=linkedin&logoColor=white&labelColor=424a53" alt="LinkedIn"/></a>
 <a href="mailto:ivanvilarinom@gmail.com"><img src="https://img.shields.io/badge/Email-ivanvilarinom%40gmail.com-57606a?style=flat-square&logo=gmail&logoColor=white&labelColor=424a53" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Ubicación-Sevilla-57606a?style=flat-square&logo=googlemaps&logoColor=white&labelColor=424a53" alt="Sevilla"/>
-<img src="https://komarev.com/ghpvc/?username=ivanvilarinom&style=flat-square&color=57606a&label=Visitas" alt="Visitas"/>
+<img src="https://img.shields.io/badge/Location-Seville%2C%20Spain-57606a?style=flat-square&logo=googlemaps&logoColor=white&labelColor=424a53" alt="Seville, Spain"/>
+<img src="https://komarev.com/ghpvc/?username=ivanvilarinom&style=flat-square&color=57606a&label=Visitors" alt="Visitors"/>
 
-<a href="https://www.ayesa-digital.com"><img src="https://img.shields.io/badge/Empresa-Ayesa%20Digital-0a3d91?style=flat-square&labelColor=424a53" alt="Ayesa Digital"/></a>
-<a href="https://github.com/Emergya"><img src="https://img.shields.io/badge/Empresa-Emergya-0a3d91?style=flat-square&labelColor=424a53" alt="Emergya"/></a>
+<a href="https://www.ayesa-digital.com"><img src="https://img.shields.io/badge/Company-Ayesa%20Digital-0a3d91?style=flat-square&labelColor=424a53" alt="Ayesa Digital"/></a>
+<a href="https://github.com/Emergya"><img src="https://img.shields.io/badge/Company-Emergya-0a3d91?style=flat-square&labelColor=424a53" alt="Emergya"/></a>
 
 </div>
 
 <br/>
 
-Ingeniero industrial especializado en el diseño y despliegue de soluciones de inteligencia artificial generativa.
+Industrial engineer specialized in designing and deploying generative AI solutions.
 
-<br/>
+### Favourite technologies
 
-<img src="languages.svg" width="100%" alt="Lenguajes: Python 60%, TypeScript 14,3%, Shell 11,4%, HTML 5,7%, Vue 2,9%, C++ 2,9%, Dockerfile 2,9%"/>
+**AI & Data** &nbsp;
+![Python](https://img.shields.io/badge/Python-57606a?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-57606a?style=flat-square&logo=fastapi&logoColor=white)
 
-### Proyecto destacado
+**Frontend** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-57606a?style=flat-square&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-57606a?style=flat-square&logo=vuedotjs&logoColor=white)
+
+**Infrastructure** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-57606a?style=flat-square&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-57606a?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-57606a?style=flat-square&logo=git&logoColor=white)
+
+**Embedded** &nbsp;
+![C++](https://img.shields.io/badge/C++-57606a?style=flat-square&logo=cplusplus&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-57606a?style=flat-square&logo=espressif&logoColor=white)
+
+### Languages
+
+<img src="languages.svg" width="100%" alt="Languages used across my repositories"/>
+
+### Featured project
 
 <a href="https://github.com/ivanvilarinom/loyola_horarios">
   <picture>
