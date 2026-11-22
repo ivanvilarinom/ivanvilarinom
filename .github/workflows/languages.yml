@@ -1,23 +1,18 @@
-name: Update languages card
+name: Languages card
 
 on:
   schedule:
-    - cron: "0 6 * * 1" # Mondays 06:00 UTC
+    - cron: "0 6 * * 1"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  card:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python scripts/languages.py
-        env:
-          GH_TOKEN: ${{ secrets.LANGS_TOKEN }}
-      - run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add languages.svg
-          git diff --cached --quiet || (git commit -m "Update languages card" && git push)
+      - uses: ivanvilarinom/languages-card@main
+        with:
+          token: ${{ secrets.LANGS_TOKEN }}
