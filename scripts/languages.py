@@ -19,7 +19,7 @@ MAX_ITEMS = 8  # 4 columns x 2 rows
 
 
 def fetch_counts(token):
-    counts, page = Counter(), 1
+    counts, page, seen_private = Counter(), 1, False
     while True:
         req = urllib.request.Request(
             f"https://api.github.com/user/repos?affiliation=owner&per_page=100&page={page}",
@@ -27,7 +27,10 @@ def fetch_counts(token):
         )
         repos = json.load(urllib.request.urlopen(req))
         if not repos:
+            if not seen_private:  # don't overwrite the card with public-only data
+                sys.exit("Token only sees public repos: grant it access to private repositories.")
             return counts
+        seen_private |= any(r["private"] for r in repos)
         counts.update(r["language"] for r in repos if r["language"] and not r["fork"])
         page += 1
 
