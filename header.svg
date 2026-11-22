@@ -20,5 +20,5 @@
   <rect y="99" width="80" height="2" fill="url(#shine)">
     <animate attributeName="x" values="317;457;317" dur="6s" repeatCount="indefinite"/>
   </rect>
-  <text class="d" x="427" y="130" text-anchor="middle">AI Engineer &amp; Consultant · Ingeniero Industrial</text>
+  <text class="d" x="427" y="130" text-anchor="middle">AI Engineer &amp; Consultant · Industrial Engineer</text>
 </svg>
