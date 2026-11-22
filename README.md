@@ -6,40 +6,24 @@
   <img src="header-light.svg" width="100%" alt="Iván Vilariño Martel — AI Engineer & Consultant"/>
 </picture>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/ivilarino/"><img src="https://img.shields.io/badge/LinkedIn-ivilarino-57606a?style=flat-square&logo=linkedin&logoColor=white&labelColor=424a53" alt="LinkedIn"/></a>
-<a href="mailto:ivanvilarinom@gmail.com"><img src="https://img.shields.io/badge/Email-ivanvilarinom%40gmail.com-57606a?style=flat-square&logo=gmail&logoColor=white&labelColor=424a53" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Location-Seville%2C%20Spain-57606a?style=flat-square&logo=googlemaps&logoColor=white&labelColor=424a53" alt="Seville, Spain"/>
-<img src="https://komarev.com/ghpvc/?username=ivanvilarinom&style=flat-square&color=57606a&label=Visitors" alt="Visitors"/>
-
-<a href="https://www.ayesa-digital.com"><img src="https://img.shields.io/badge/Company-Ayesa%20Digital-0a3d91?style=flat-square&labelColor=424a53" alt="Ayesa Digital"/></a>
-<a href="https://github.com/Emergya"><img src="https://img.shields.io/badge/Company-Emergya-0a3d91?style=flat-square&labelColor=424a53" alt="Emergya"/></a>
+<a href="https://www.linkedin.com/in/ivilarino/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:ivanvilarinom@gmail.com">Email</a> &nbsp;·&nbsp;
+Seville, Spain
 
 </div>
 
-<br/>
+### About me
 
-Industrial engineer specialized in designing and deploying generative AI solutions.
+I'm an industrial engineer working as an **AI & Data Solutions Engineer** at [Ayesa Digital](https://www.ayesa-digital.com) ([@Emergya](https://github.com/Emergya)). I design and deploy generative AI solutions, from understanding the business problem to running them reliably in production.
+
+My background spans data engineering and process engineering, and outside work I keep building side projects: bots, APIs and small web apps.
 
 ### Favourite technologies
 
-**AI & Data** &nbsp;
-![Python](https://img.shields.io/badge/Python-57606a?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-57606a?style=flat-square&logo=fastapi&logoColor=white)
-
-**Frontend** &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-57606a?style=flat-square&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-57606a?style=flat-square&logo=vuedotjs&logoColor=white)
-
-**Infrastructure** &nbsp;
-![Docker](https://img.shields.io/badge/Docker-57606a?style=flat-square&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-57606a?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-57606a?style=flat-square&logo=git&logoColor=white)
-
-**Embedded** &nbsp;
-![C++](https://img.shields.io/badge/C++-57606a?style=flat-square&logo=cplusplus&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-57606a?style=flat-square&logo=espressif&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,ts,vue,docker,bash,git,cpp&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,vue,docker,bash,git,cpp&theme=light" alt="Python, FastAPI, TypeScript, Vue, Docker, Bash, Git, C++"/>
+</picture>
 
 ### Languages
 
@@ -53,3 +37,5 @@ Industrial engineer specialized in designing and deploying generative AI solutio
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanvilarinom&repo=loyola_horarios&hide_border=true&bg_color=f6f8fa&title_color=1f2328&text_color=59636e&icon_color=0969da" alt="loyola_horarios"/>
   </picture>
 </a>
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=ivanvilarinom&style=flat-square&color=57606a&label=Visitors" alt="Visitors"/></p>
