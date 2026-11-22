@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="170" viewBox="0 0 854 170">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f6f8fa"/>
+      <stop offset="1" stop-color="#eaeef2"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0969da" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#0969da" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0969da" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .t { font: 700 38px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .d { font: 400 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #59636e; letter-spacing: .5px; }
+  </style>
+  <rect x=".5" y=".5" width="853" height="169" rx="10" fill="url(#bg)" stroke="#d0d7de"/>
+  <text class="t" x="427" y="80" text-anchor="middle">Iván Vilariño Martel</text>
+  <line x1="317" y1="100" x2="537" y2="100" stroke="#d0d7de" stroke-width="1.5"/>
+  <rect y="99" width="80" height="2" fill="url(#shine)">
+    <animate attributeName="x" values="317;457;317" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <text class="d" x="427" y="130" text-anchor="middle">AI Engineer &amp; Consultant · Ingeniero Industrial</text>
+</svg>
