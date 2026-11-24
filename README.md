@@ -31,8 +31,14 @@ My background spans data engineering and process engineering, and outside work I
 
 <img src="languages.svg" width="100%" alt="Languages used across my repositories"/>
 
-### Featured project
+### Featured projects
 
+<a href="https://github.com/ivanvilarinom/languages-card">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ivanvilarinom&repo=languages-card&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanvilarinom&repo=languages-card&hide_border=true&bg_color=f6f8fa&title_color=1f2328&text_color=59636e&icon_color=0969da" alt="languages-card"/>
+  </picture>
+</a>
 <a href="https://github.com/ivanvilarinom/loyola_horarios">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ivanvilarinom&repo=loyola_horarios&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff"/>
